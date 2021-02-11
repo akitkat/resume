@@ -5,28 +5,49 @@ todo
 
 ## スキル
 ### 言語
-| No.  | 名称 | 年数 |
+| No. | 名称 | 年数 |
 |---|---|---|
-| 1. | PHP              |5年|
-| 2. | MySQL            |5年|
-| 3. | JavaScript       |3年|
-| 4. | GoogleAppsScript |2年|
-| 5. | SCSS             |1年|
+| 1. | PHP              | 5年 |
+| 2. | MySQL            | 5年 |
+| 3. | JavaScript       | 3年 |
+| 4. | GoogleAppsScript | 2年 |
+| 5. | SCSS             | 1年 |
 
 ### フレームワーク
 
-| No.  | 名称 | 年数 |
+| No. | 名称 | 年数 |
 |---|---|---|
-| 1. | Laravel              |2年|
-| 2. | CakePHP              |2年|
-| 3. | Symfony              |2年|
-| 4. | Vue.js              |2年|
-| 5. | Slim              |1年|
+| 1. | Laravel | 2年 |
+| 2. | CakePHP | 2年 |
+| 3. | Symfony | 2年 |
+| 4. | Vue.js  | 2年 |
+| 5. | Slim    | 1年 |
 
 ### その他
 
-todo
-
+| No. | 名称 | 年数 |
+|---|---|---|
+| 1. | Git | 5年 |
+| 2. | Composer | 4年 |
+| 3. | jQuery | 3年 |
+| 4. | Node.js | 3年 |
+| 5. | npm | 3年 |
+| 6. | Amazon RDS | 2年 |
+| 7. | Docker | 2年 |
+| 8. | Heroku | 2年 |
+| 9. | Twig | 2年 |
+| 10. | Yarn | 2年 |
+| 11. | Amazon API Gateway | 1年 |
+| 12. | Amazon CloudFlont | 1年 |
+| 13. | Amazon EC2 | 1年 |
+| 14. | Amazon Lambda | 1年 |
+| 15. | Blade | 1年 |
+| 16. | ESLint | 1年 |
+| 17. | Firebase | 1年 |
+| 18. | laravel-mix | 1年 |
+| 19. | PHPUnit | 1年 |
+| 20. | SVN  | 1年 |
+| 21. | webpack | 1年 |
 
 ## 強み
 

@@ -284,22 +284,24 @@ todo
 - 現在開発中のスマホアプリケーションのAPI開発の実施．
 
 #### :wrench: 使用技術
-- PHP(7.1)，Laravel(5.8)，Blade，Docker，MySQL，Goose，Firebase，Swagger．
+- PHP(7.1)，Laravel(5.8)，Blade，Docker，MySQL，Goose，Firebase，Swagger，PHPUnit．
 
 #### :raising_hand: 主な担当箇所
 1. テーブル設計．
 2. Repository，Presentationなど，Model層など横断的なクラス実装．
 3. Firebaseを用いたプッシュ通知機能の実装．
 4. ユーザからのお問い合わせ機能の実装．
+5. テストコードの作成．
 
 #### :muscle: 特に尽力したこと
-todo
+- 依頼者の要件を実現するスマートな方法の模索・提案・実装．
+- PHPUnitを用いたテストコードを作成できるよう適切なInterfaceの実装．
 
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
    <div>
-        <p></p>
+        <p>本件は，依頼者の方も私もLarave初めて使うとのこともあり<b>Laravelで実現可能な方法</b>の模索し，提案・実装を進めてきた．各種APIのリクエストをParseする層やレスポンスの形を決めるPresentation層等，なるべく<b>責務を細かく分けて実装</b>を進めた．また，APIやDBの負荷対策のため，各種値を<b>Redisにキャッシュする機構</b>を用いたり，適切なタイミングで揮発するような細部まで意識して実装を試みた．</p>
+        <P>APIは，<b>PHPUnitでの自動テスト</b>を行うべく，適切なInterface用意して進め，テストコードの実装も行った．</P>
     </div>
 </details>
 
----

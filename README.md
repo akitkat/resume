@@ -96,23 +96,25 @@ todo
 
 # 職務経歴
 
-## 2016/04 - 2018/11 : 株式会社セレス
+## :office: 2016/04 - 2018/11 : 株式会社セレス
 
 職務: Webアプリケーションエンジニア / サーバサイドエンジニア
 
-### 2017/05 - 2018/01 : ポイントサイト「[モッピー](https://pc.moppy.jp/)」機能追加・保守運用・改修
+---
+
+### :computer: 2017/05 - 2018/01 : ポイントサイト「[モッピー](https://pc.moppy.jp/)」機能追加・保守運用・改修
 - ポイントサイト「[モッピー](https://pc.moppy.jp/)」における，機能追加・保守・運用・調査・抽出依頼等を行ってきた．
 
-#### 使用技術
+#### :wrench: 使用技術
 - PHP, [mumu](https://github.com/gunyarakun/mumu), Twig, MySQL, JavaScript, jQuery, Scss
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 1. 主にサーバサイド側の実装を担当．
 2. CMSについてはサーバサイドとフロントエンド両方を担当．
 3. 社内運用者からの抽出依頼の対応．
 4. ポイント交換先とのAPI繋ぎこみ対応．
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 - 社内運用者からの抽出依頼の対応．
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
@@ -125,19 +127,19 @@ todo
 
 ---
 
-### 2017/05 - 2018/01 : ポイントサイト「`お財布.com`」のリビルド開発＆リニューアルプロジェクト
+### :computer: 2017/05 - 2018/01 : ポイントサイト「`お財布.com`」のリビルド開発＆リニューアルプロジェクト
 
 - ポイントサイト「`お財布.com`」の老朽化・メンテナンスコスト増・セキュア的問題に伴い，サービス全体のリビルド開発の実施．同時にサイト全体のリニューアルも実施．
 
-#### 使用技術
+#### :wrench: 使用技術
 - PHP, Symfony, Twig, MySQL, RDS, JavaScript, jQuery, Scss
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 1. 主にサーバサイド側の実装を担当
 2. CMSについてはサーバサイドとフロントエンド両方を担当
 3. 各種バッチ・APIの繋ぎこみも担当
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 - ユーザへ配信するメルマガ機能の横断的実装．
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
@@ -152,19 +154,19 @@ todo
 
 ---
 
-### 2018/01 - 2018/11 : ポイントサイト「`お財布.com`」機能追加・保守運用・改修
+### :computer: 2018/01 - 2018/11 : ポイントサイト「`お財布.com`」機能追加・保守運用・改修
 
 todo
 
-#### 使用技術
+#### :wrench: 使用技術
 
 todo
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 
 todo
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 
 todo
 
@@ -177,20 +179,22 @@ todo
 
 ---
 
-## 2018/12 - 現在 : 株式会社MATCHA
+## :office: 2018/12 - 現在 : 株式会社MATCHA
 職務: Webアプリケーションエンジニア / サーバサイドエンジニア / フロントエンドエンジニア
 
-### 2018/12 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の機能追加・保守運用・改修
+---
+
+### :computer: 2018/12 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の機能追加・保守運用・改修
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」において，運用者，執筆者の要望から機能の追加や改修，マネタイズ施策等の立案，実装等をアジャイル開発で行っている．
 
-#### 使用技術
+#### :wrench: 使用技術
 PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js，API Gateway．
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 
 todo
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 
 todo
 
@@ -203,17 +207,17 @@ todo
 
 ---
 
-### 2018/12 - 2019/01 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の会員機能の実装
+### :computer: 2018/12 - 2019/01 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の会員機能の実装
 - 本メディアにメールアドレスやSNSを用いた会員登録の機能とそれに伴う会員ページ，記事のお気に入り機能の実装を行った．
 
-#### 使用技術
+#### :wrench: 使用技術
 - PHP，Laravel，Vue.js，Vuex，Scss，Firebase，API Gateway．
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 
 todo
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 
 todo
 
@@ -226,18 +230,18 @@ todo
 
 ----
 
-### 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装
+### :computer: 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装
 
-#### 使用技術
+#### :wrench: 使用技術
 - PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，Scss．
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 1. 設計・要件定義
 2. サーバサイドの実装
 3. フロントエンドの実装の業務委託者のアサインとタスクコントロール等
 4. 試験仕様書の作成と試験の実施
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 本案件は，私の手に回ってきたときには，大炎上案件になっていたため，どうにか着地させることを第一に尽力した．
 
 <details>
@@ -249,17 +253,17 @@ todo
 
 ----
 
-### 2020/04 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」のリビルド開発
+### :computer: 2020/04 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」のリビルド開発
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」のシステム老朽化等に伴う再開発(リビルド)の実施．
 
-#### 使用技術
+#### :wrench: 使用技術
 - PHP(7.4)，Laravel(8.x)，Blade，Vue.js，Vuex，Scss，Docker，MySQL．
 
-#### 主な担当箇所
+#### :raising_hand: 主な担当箇所
 1. MVCにおけるVCを主に担当．
 2. 特にフロントエンドは，全体の技術選定・コンポーネント設計・実装を担当．
 
-#### 特に尽力したこと
+#### :muscle: 特に尽力したこと
 - コンポーネント設計．
 
 <details>

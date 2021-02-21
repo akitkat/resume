@@ -226,6 +226,29 @@ todo
 
 ----
 
+### 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装
+
+#### 使用技術
+- PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，Scss．
+
+#### 主な担当箇所
+1. 設計・要件定義
+2. サーバサイドの実装
+3. フロントエンドの実装の業務委託者のアサインとタスクコントロール等
+4. 試験仕様書の作成と試験の実施
+
+#### 特に尽力したこと
+本案件は，私の手に回ってきたときには，大炎上案件になっていたため，どうにか着地させることを第一に尽力した．
+
+<details>
+   <summary><b>詳細はこちら :point_right:</b></summary>
+   <div>
+        <p>todo</p>
+    </div>
+</details>
+
+----
+
 ### 2020/04 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」のリビルド開発
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」のシステム老朽化等に伴う再開発(リビルド)の実施．
 

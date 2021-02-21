@@ -88,7 +88,11 @@
 
 # 強み
 
+todo
+
 # やったことはないが興味があるもの
+
+todo
 
 # 職務経歴
 
@@ -152,32 +156,75 @@
 
 todo
 
-#### フレームワーク
+#### 使用技術
 
 todo
 
-#### その他
+#### 主な担当箇所
 
 todo
+
+#### 特に尽力したこと
+
+todo
+
+<details>
+   <summary><b>詳細はこちら :point_right:</b></summary>
+   <div>
+        <p>todo</p>
+    </div>
+</details>
 
 ---
 
 ## 2018/12 - 現在 : 株式会社MATCHA
-職務: Webアプリケーションエンジニア / サーバサイドエンジニア
+職務: Webアプリケーションエンジニア / サーバサイドエンジニア / フロントエンドエンジニア
 
-### 2018/12 - 現在 : インバウンドメディア機能追加・保守運用・改修
+### 2018/12 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の機能追加・保守運用・改修
+- 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」において，運用者，執筆者の要望から機能の追加や改修，マネタイズ施策等の立案，実装等をアジャイル開発で行っている．
+
+#### 使用技術
+PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js，API Gateway．
+
+#### 主な担当箇所
+
+todo
+
+#### 特に尽力したこと
 
 todo
 
-#### フレームワーク
-
-todo
-
-#### その他
-
-todo
+<details>
+   <summary><b>詳細はこちら :point_right:</b></summary>
+   <div>
+        <p>todo</p>
+    </div>
+</details>
 
 ---
+
+### 2018/12 - 2019/01 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の会員機能の実装
+- 本メディアにメールアドレスやSNSを用いた会員登録の機能とそれに伴う会員ページ，記事のお気に入り機能の実装を行った．
+
+#### 使用技術
+- PHP，Laravel，Vue.js，Vuex，Scss，Firebase，API Gateway．
+
+#### 主な担当箇所
+
+todo
+
+#### 特に尽力したこと
+
+todo
+
+<details>
+   <summary><b>詳細はこちら :point_right:</b></summary>
+   <div>
+        <p>todo</p>
+    </div>
+</details>
+
+----
 
 ### 2020/04 - 現在 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」のリビルド開発
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」のシステム老朽化等に伴う再開発(リビルド)の実施．

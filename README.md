@@ -308,3 +308,8 @@ todo
         <P>APIは，<b>PHPUnitでの自動テスト</b>を行うべく，適切なInterface用意して進め，テストコードの実装も行った．</P>
     </div>
 </details>
+
+# 外部リンク
+<a href="https://qiita.com/akitkat" target="_blank">
+    <img src="https://user-images.githubusercontent.com/24934763/111560299-9440f180-87d5-11eb-9743-ce5c3d11d2cf.png" width="25%"
+</a>

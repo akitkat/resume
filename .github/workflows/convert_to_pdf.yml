@@ -19,4 +19,5 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '15.x'
-      - run: cat README.md | npx md-to-pdf > resume.pdf
+      - run: npm i -g md-to-pdf
+      - run: cat README.md | md-to-pdf > resume.pdf

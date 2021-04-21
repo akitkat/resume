@@ -11,15 +11,13 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  convert_via_pandoc:
-    name: Convert via Pandoc
-    # The type of runner that the job will run on
+  convert_to_pdf:
+    name: convert to pdf
     runs-on: ubuntu-latest
-
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - run: echo "foo" > input.txt
-      - uses: maxheld83/pandoc@v2
+      - uses: actions/setup-node@v1
         with:
-          args: "-s -o README.md resume.pdf"
+          node-version: '15.x'
+      - run: npm ci
+      - run: npx md-to-pdf README.md

@@ -19,5 +19,4 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '15.x'
-      - run: npm ci
       - run: npx md-to-pdf README.md

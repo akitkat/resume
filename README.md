@@ -38,7 +38,7 @@
             <td>5年</td>
             <td rowspan="6" style="border-left:solid 1px">フレームワーク</td>
             <td>Laravel (+Blade)</td>
-            <td>2年</td>
+            <td>3年</td>
             <td rowspan="6" style="border-left:solid 1px">その他</td>
             <td>Git</td>
             <td>5年</td>
@@ -49,7 +49,7 @@
             <td>CakePHP(2.x)</td>
             <td>2年</td>
             <td>Composer</td>
-            <td>4年</td>
+            <td>5年</td>
         </tr>
         <tr>
             <td>JavaScript</td>
@@ -210,7 +210,7 @@ todo
     </div>
 </details>
 
-----
+---
 
 ### :computer: 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装
 

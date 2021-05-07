@@ -210,29 +210,6 @@ todo
     </div>
 </details>
 
----
-
-### :computer: 2018/12 - 2019/01 : インバウンドメディア「[MATCHA](https://matcha-jp.com)」の会員機能の実装
-- 本メディアにメールアドレスやSNSを用いた会員登録の機能とそれに伴う会員ページ，記事のお気に入り機能の実装を行った．
-
-#### :wrench: 使用技術
-- PHP，Laravel，Vue.js，Vuex，Scss，Firebase，API Gateway．
-
-#### :raising_hand: 主な担当箇所
-
-todo
-
-#### :muscle: 特に尽力したこと
-
-todo
-
-<details>
-   <summary><b>詳細はこちら :point_right:</b></summary>
-   <div>
-        <p>todo</p>
-    </div>
-</details>
-
 ----
 
 ### :computer: 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装

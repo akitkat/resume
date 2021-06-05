@@ -21,3 +21,11 @@ jobs:
           node-version: '15.x'
       - run: npm i -g md-to-pdf
       - run: cat README.md | md-to-pdf > resume.pdf
+      
+      # commit & push
+      - name: push
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: main
+          commit-message: 'auto update resume.pdf'

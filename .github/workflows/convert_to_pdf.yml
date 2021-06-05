@@ -28,4 +28,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: main
+          files: resume.pdf
           commit-message: 'auto update resume.pdf'

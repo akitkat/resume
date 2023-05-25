@@ -17,6 +17,9 @@
 
 # :+1: スキル
 ## 言語・フレームワーク等
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&i=php,ruby,js,html,css" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&i=laravel,symfony,rails,vue,sass,aws" />
+
 <table>
     <thead>
         <tr>

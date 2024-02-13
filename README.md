@@ -76,7 +76,7 @@ timeline
 - ポイントサイト「`お財布.com`」の老朽化・メンテナンスコスト増・セキュア的問題に伴い，サービス全体のリビルド開発の実施．同時にサイト全体のリニューアルも実施．
 
 #### :wrench: 使用技術
-- PHP, Symfony, Twig, MySQL, RDS, JavaScript, jQuery, Scss
+<img src="https://skillicons.dev/icons?theme=light&i=php,symfony,js,mysql,aws,jquery" />
 
 #### :raising_hand: 主な担当箇所
 1. 主にサーバサイドの実装を担当

@@ -50,7 +50,7 @@ timeline
 - ポイントサイト「[モッピー](https://pc.moppy.jp/)」における，機能追加・保守・運用・調査・抽出依頼等を行ってきた．
 
 #### :wrench: 使用技術
-- PHP, [mumu](https://github.com/gunyarakun/mumu), Twig, MySQL, JavaScript, jQuery, Scss
+<img src="https://skillicons.dev/icons?theme=light&i=php,js,mysql,jquery" />
 
 #### :raising_hand: 主な担当箇所
 1. 主にサーバサイド側の実装を担当．

@@ -103,8 +103,7 @@ timeline
 1. ポイントサイト「お財布.com」における，機能追加・保守・運用・調査・抽出依頼等を行ってきた．
 
 #### :wrench: 使用技術
-
-- PHP, Symfony, Twig, MySQL, RDS, JavaScript, jQuery, Scss
+<img src="https://skillicons.dev/icons?theme=light&i=php,symfony,js,mysql,aws,jquery" />
 
 #### :raising_hand: 主な担当箇所
 
@@ -137,7 +136,7 @@ timeline
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」において，運用者，執筆者の要望から機能の追加や改修，マネタイズ施策等の立案，実装等をアジャイル開発で行っている．
 
 #### :wrench: 使用技術
-PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js，API Gateway．
+<img src="https://skillicons.dev/icons?theme=light&i=php,js,mysql,aws,jquery,vuejs" />
 
 #### :raising_hand: 主な担当箇所
 1. サーバサイド・フロントエンド共に担当
@@ -160,7 +159,7 @@ PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js�
 ### :computer: 2019/5 - 2019/08 : インバウンドメディアMATCHAにおける「[Ramen Magazine](https://matcha-jp.com/jp/ramen)」の実装
 
 #### :wrench: 使用技術
-- PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，Scss．
+<img src="https://skillicons.dev/icons?theme=light&i=php,js,mysql,aws,jquery,vuejs" />
 
 #### :raising_hand: 主な担当箇所
 1. 設計・要件定義
@@ -185,7 +184,7 @@ PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js�
 - 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」のシステム老朽化等に伴う再開発(リビルド)の実施．
 
 #### :wrench: 使用技術
-- PHP(7.4)，Laravel(8.x)，Blade，Vue.js，Vuex，Scss，Docker，MySQL．
+<img src="https://skillicons.dev/icons?theme=light&i=php,laravel,js,mysql,aws,vuejs,docker" />
 
 #### :raising_hand: 主な担当箇所
 1. MVCにおけるVCを主に担当．
@@ -210,7 +209,7 @@ PHP，CakePHP(2.x)，MySQL(Amazon Aurora)，JavaScript，jQuery，Scss，Vue.js�
 - 現在開発中のスマホアプリケーションのAPI開発の実施．
 
 #### :wrench: 使用技術
-- PHP(7.1)，Laravel(5.8)，Blade，Docker，MySQL，Goose，Firebase，Swagger，PHPUnit．
+<img src="https://skillicons.dev/icons?theme=light&i=php,laravel,mysql,firebase,docker" />
 
 #### :raising_hand: 主な担当箇所
 1. テーブル設計．

@@ -28,9 +28,9 @@
 
 
 # :eyes: 興味があるもの
-1. TypeScript
-2. Rust
-3. シェル芸人
+1. Go
+2. GitHub Copilot Code Review
+3. Datadog
 
 
 # :rocket: 職務経歴

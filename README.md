@@ -232,6 +232,21 @@ timeline
     </div>
 </details>
 
+----
+
+## :office: 2022/01 - 現在 : ラクスル株式会社
+- 職務：サーバサイドエンジニア
+- 雇用形態：正社員
+
+### :computer: 2024/11 - 現在 : 新セッションサービスの開発
+- ネット印刷のECサイト，[ラクスル](https://raksul.com/)のセッション刷新に伴う新セッションサービスの開発．
+
+#### :wrench: 使用技術
+<img src="https://skillicons.dev/icons?theme=light&i=go,docker,nginx,aws" />
+
+#### :muscle: 特に尽力したこと
+TODO
+
 # 外部リンク
 <a href="https://qiita.com/akitkat" target="_blank">
     <img src="https://user-images.githubusercontent.com/24934763/111560299-9440f180-87d5-11eb-9743-ce5c3d11d2cf.png" width="25%"

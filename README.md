@@ -22,9 +22,10 @@
 <img src="https://skillicons.dev/icons?theme=light&i=git,github,docker,aws,sentry" />
 
 # :muscle: 強み
-1. 数々の炎上してる案件を関係者巻き込んで着地させてきた場数．
+1. 複雑なSQLクエリの構築・解読・クエリチューニング．
 2. 過去2度のメディアサイトリビルド経験．
-3. 無駄を嫌うことから些細なことまで自動化を目指すオタク精神．
+3. 障害・問い合わせ時における調査力．
+
 
 # :eyes: 興味があるもの
 1. TypeScript

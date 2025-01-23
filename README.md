@@ -17,8 +17,9 @@
 
 # :+1: スキル
 ## 言語・フレームワーク等
-<img src="https://skillicons.dev/icons?theme=light&i=php,ruby,js,html,css" />
-<img src="https://skillicons.dev/icons?theme=light&i=laravel,symfony,rails,vue,sass,aws" />
+<img src="https://skillicons.dev/icons?theme=light&i=php,ruby,go,js,mysql" />
+<img src="https://skillicons.dev/icons?theme=light&i=laravel,symfony,rails,vue,nextjs" />
+<img src="https://skillicons.dev/icons?theme=light&i=git,github,docker,aws,sentry" />
 
 # :muscle: 強み
 1. 数々の炎上してる案件を関係者巻き込んで着地させてきた場数．

@@ -1,4 +1,4 @@
-![職務経歴書](https://user-images.githubusercontent.com/24934763/107616500-8b6a7680-6c91-11eb-8e24-6d033b46ffdc.png "職務経歴書")
+![職務経歴書](https://github.com/user-attachments/assets/501877df-b648-4941-a354-358e7232f4f2 "職務経歴書")
 
 # :information_source: 基本情報
 1. 年齢: 31歳．

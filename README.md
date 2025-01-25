@@ -263,6 +263,18 @@ TODO
 
 ---
 
+### :computer: 2023/02 - 2024/06 : 専用注文サイト機能のリビルド開発
+
+TODO
+
+#### :wrench: 使用技術
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,mysql,nextjs" />
+
+#### :muscle: 特に尽力したこと
+TODO
+
+---
+
 ### :computer: 2024/11 - 現在 : 新セッションサービスの開発
 - ネット印刷のECサイト，[ラクスル](https://raksul.com/)のセッション刷新に伴う新セッションサービスの開発．
 

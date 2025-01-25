@@ -238,6 +238,19 @@ timeline
 - 職務：サーバサイドエンジニア
 - 雇用形態：正社員
 
+---
+
+### :computer: 2023/01 - 2023/04 : 専用注文サイト機能へのSSO開発
+TODO
+
+#### :wrench: 使用技術
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,azure" />
+
+#### :muscle: 特に尽力したこと
+TODO
+
+---
+
 ### :computer: 2024/11 - 現在 : 新セッションサービスの開発
 - ネット印刷のECサイト，[ラクスル](https://raksul.com/)のセッション刷新に伴う新セッションサービスの開発．
 

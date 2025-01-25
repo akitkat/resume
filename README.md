@@ -251,6 +251,18 @@ TODO
 
 ---
 
+### :computer: 2023/09 - 2024/01 : 代理ログイン機能の開発
+
+TODO
+
+#### :wrench: 使用技術
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,mysql" />
+
+#### :muscle: 特に尽力したこと
+TODO
+
+---
+
 ### :computer: 2024/11 - 現在 : 新セッションサービスの開発
 - ネット印刷のECサイト，[ラクスル](https://raksul.com/)のセッション刷新に伴う新セッションサービスの開発．
 

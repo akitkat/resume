@@ -246,7 +246,7 @@ timeline
 - この機能の実現により，毎月手動作成していたExcelを工数をゼロを実現．
 
 #### :wrench: 使用技術
-<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,nuxtjs,kafka,aws" />
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,nuxtjs,kafka,aws,mysql" />
 
 #### :raising_hand: 主な担当箇所
 1. 要件定義，設計，実装，QA．
@@ -272,7 +272,7 @@ timeline
 2. この機能の実現により，管理者がユーザーを招待せずとも，IdPに登録されているユーザーであれば専用注文サイトをシームレスに利用できるようになった．
 
 #### :wrench: 使用技術
-<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,azure" />
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,azure,mysql" />
 
 #### :raising_hand: 主な担当箇所
 1. 要件定義，設計，実装，QA．

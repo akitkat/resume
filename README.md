@@ -269,7 +269,7 @@ timeline
 
 ### :computer: 2023/01 - 2023/04 : 専用注文サイト機能へのSSO開発
 - [Microsoft Entra ID](https://www.microsoft.com/ja-jp/security/business/identity-access/microsoft-entra-id)をIdPとしたOpenID ConnectによるSSOの開発．
-2. この機能の実現により，管理者がユーザーを招待せずとも，IdPに登録されているユーザーであれば専用注文サイトをシームレスに利用できるようになった．
+- この機能の実現により，管理者がユーザーを招待せずとも，IdPに登録されているユーザーであれば専用注文サイトをシームレスに利用できるようになった．
 
 #### :wrench: 使用技術
 <img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,azure,mysql" />

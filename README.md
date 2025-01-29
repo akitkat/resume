@@ -354,9 +354,10 @@ timeline
 #### :wrench: 使用技術
 <img src="https://skillicons.dev/icons?theme=light&i=go,docker,nginx,aws" />
 
-
-#### :muscle: 特に尽力したこと
-TODO
+#### :raising_hand: 主な担当箇所
+1. NginxでのJWTトークンの認証．
+2. Datadogの導入．
+3. Goを用いたAPIの設計と実装．
 
 # 外部リンク
 <a href="https://qiita.com/akitkat" target="_blank">

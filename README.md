@@ -321,14 +321,30 @@ timeline
 ---
 
 ### :computer: 2024/02 - 2024/06 : 専用注文サイト機能のリビルド開発
-
-TODO
+- ラクスルエンタープライズの専用注文サイト機能のリビルド開発．
+- 元々フロントエンドはRailsで実装されていたが，Next.jsを採用し，SPA化を実現．
+- この機能の実現により，フロントエンドのパフォーマンス向上と，ユーザーのエクスペリエンス向上を実現．
+- また，フロントエンドの開発体験も向上し，開発効率も向上した．
 
 #### :wrench: 使用技術
-<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,mysql,nextjs" />
+<img src="https://skillicons.dev/icons?theme=light&i=ruby,rails,mysql,nextjs,nginx" />
+
+#### :raising_hand: 主な担当箇所
+1. Twirpを用いたAPIの設計と実装．
+2. Next.jsを用いたフロントエンドの実装．
 
 #### :muscle: 特に尽力したこと
-TODO
+- protocol bufferを用いたAPIの設計．
+- 工数とパフォーマンスのバランスを考慮した全体設計．
+
+<details>
+   <summary><b>詳細はこちら :point_right:</b></summary>
+   <div>
+        <p>RailsのViewで開発されていたため，細かい部分の更新が難しかったため，Next.jsを採用し，SPA化を実現した．</p>
+        <p>また，APIの設計にはすでに他プロダクトで使用されているTwirpを採用し，protocol bufferを用いたAPIの設計を行った．</p>
+        <p>工数の兼ね合いで，セッション周りはRailsに残したまま，他をNext.jsで実装することで，パフォーマンスの向上と開発効率の向上を実現した．</p>
+    </div>
+</details>
 
 ---
 
@@ -337,6 +353,7 @@ TODO
 
 #### :wrench: 使用技術
 <img src="https://skillicons.dev/icons?theme=light&i=go,docker,nginx,aws" />
+
 
 #### :muscle: 特に尽力したこと
 TODO
